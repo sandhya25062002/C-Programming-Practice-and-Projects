@@ -1,1 +1,0 @@
-Hello! This string is written to the file.
